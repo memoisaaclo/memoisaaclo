@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @memoisaaclo
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning effeciently
 - 🌱 I’m currently learning Database (Oracle 12c SQL and Java) and Python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: comment on my stuff!
